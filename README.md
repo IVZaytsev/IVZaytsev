@@ -2,25 +2,19 @@
 <h3 align="center">Я начинающий разработчик из Калининграда</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />
-  <img src="https://img.shields.io/github/stars/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />
+  <img src="https://img.shields.io/github/followers/IVZaytsev?color=%23cc9900" alt="ivzaytsev" /> 
+  <img src="https://img.shields.io/github/stars/IVZaytsev?color=%23cc9900" alt="ivzaytsev" /> 
   <img src="https://komarev.com/ghpvc/?username=ivzaytsev&label=Profile%20views&color=cc9900&style=flat" alt="ivzaytsev" />
 </p>
 
 - 🌱 На текущий момент я изучаю **Django, RestAPI, Golang**
 
 <h3 align="left">Мои контакты:</h3>
-<p align="left">
-<a href="tel:89634950312" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/phone.svg?raw=true" alt="IVZaytsev" height="40" width="40" /></a>
-</p>
-<p align="left">
-<a href="mailto:IVZaytsev39@gmail.com" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/mail.svg?raw=true" alt="IVZaytsev39@gmail.com" height="40" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://t.me/TaoGunner" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/telegram.svg?raw=true" alt="TaoGunner" height="40" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://discord.gg/TaoGunner#4839" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/discord.svg?raw=true" alt="TaoGunner#4839" height="40" width="40" /></a>
+<p align="center">
+  <a href="tel:89634950312" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/phone.svg?raw=true" alt="IVZaytsev" height="40" width="40" /></a> 
+  <a href="mailto:IVZaytsev39@gmail.com" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/mail.svg?raw=true" alt="IVZaytsev39@gmail.com" height="40" width="40" /></a> 
+  <a href="https://t.me/TaoGunner" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/telegram.svg?raw=true" alt="TaoGunner" height="40" width="40" /></a> 
+  <a href="https://discord.gg/TaoGunner#4839" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/discord.svg?raw=true" alt="TaoGunner#4839" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">На этом я пишу и этим пользуюсь сейчас:</h3>
