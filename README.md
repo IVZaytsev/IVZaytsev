@@ -2,8 +2,8 @@
 <h3 align="center">Я начинающий разработчик из Калининграда</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/IVZaytsev?color=%23cc9900" alt="ivzaytsev" /><pre>&#9;</pre>
-  <img src="https://img.shields.io/github/stars/IVZaytsev?color=%23cc9900" alt="ivzaytsev" /><pre>&#9;</pre>
+  <img src="https://img.shields.io/github/followers/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ivzaytsev&label=Profile%20views&color=cc9900&style=flat" alt="ivzaytsev" />
 </p>
 <p align="center">
@@ -14,9 +14,9 @@
 <hr>
 <h3 align="center">Мои контакты:</h3>
 <p align="center">
-  <a href="tel:89634950312" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/phone.svg?raw=true" alt="IVZaytsev" height="40" width="40" /> </a><pre>&#9;</pre>
-  <a href="mailto:IVZaytsev39@gmail.com" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/mail.svg?raw=true" alt="IVZaytsev39@gmail.com" height="40" width="40" /> </a><pre>&#9;</pre>
-  <a href="https://t.me/TaoGunner" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/telegram.svg?raw=true" alt="TaoGunner" height="40" width="40" /> </a><pre>&#9;</pre>
+  <a href="tel:89634950312" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/phone.svg?raw=true" alt="IVZaytsev" height="40" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:IVZaytsev39@gmail.com" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/mail.svg?raw=true" alt="IVZaytsev39@gmail.com" height="40" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/TaoGunner" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/telegram.svg?raw=true" alt="TaoGunner" height="40" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/TaoGunner#4839" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/discord.svg?raw=true" alt="TaoGunner#4839" height="40" width="40" /> </a>
 </p>
 <hr>
