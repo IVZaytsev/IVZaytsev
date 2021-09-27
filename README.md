@@ -2,8 +2,8 @@
 <h3 align="center">Я начинающий разработчик из Калининграда</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />  
-  <img src="https://img.shields.io/github/stars/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />  
+  <img src="https://img.shields.io/github/followers/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />U+0009
+  <img src="https://img.shields.io/github/stars/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />U+0009
   <img src="https://komarev.com/ghpvc/?username=ivzaytsev&label=Profile%20views&color=cc9900&style=flat" alt="ivzaytsev" />
 </p>
 <p align="center">
