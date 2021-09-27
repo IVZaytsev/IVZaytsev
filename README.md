@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=ivzaytsev&label=Profile%20views&color=cc9900&style=flat" alt="ivzaytsev" />
 </p>
 <p align="center">
-  <img src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/kaliningrad.svg?raw=true" alt="Kaliningrad" height="100" width="100" />
+  <img src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/kaliningrad.svg?raw=true" alt="Kaliningrad" height="120" width="120" />
 </p>
 
 - 🌱 На текущий момент я изучаю **Django, RestAPI, Golang**
