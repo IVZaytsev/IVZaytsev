@@ -14,7 +14,7 @@
 <hr>
 <h3 align="center">Мои контакты:</h3>
 <p align="center">
-  <a href="tel:89634950312" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/phone.svg?raw=true" alt="IVZaytsev" height="40" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="tel:+79634950312" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/phone.svg?raw=true" alt="IVZaytsev" height="40" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:IVZaytsev39@gmail.com" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/mail.svg?raw=true" alt="IVZaytsev39@gmail.com" height="40" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/TaoGunner" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/telegram.svg?raw=true" alt="TaoGunner" height="40" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/TaoGunner#4839" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/discord.svg?raw=true" alt="TaoGunner#4839" height="40" width="40" /> </a>
