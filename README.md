@@ -2,17 +2,16 @@
 <h3 align="center">Я начинающий разработчик из Калининграда</h3>
 
 <p align="center">
-  <img src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/kaliningrad.svg?raw=true" alt="Kaliningrad" height="100" width="100" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />  
   <img src="https://img.shields.io/github/stars/IVZaytsev?color=%23cc9900" alt="ivzaytsev" />  
   <img src="https://komarev.com/ghpvc/?username=ivzaytsev&label=Profile%20views&color=cc9900&style=flat" alt="ivzaytsev" />
 </p>
+<p align="center">
+  <img src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/kaliningrad.svg?raw=true" alt="Kaliningrad" height="100" width="100" />
+</p>
 
 - 🌱 На текущий момент я изучаю **Django, RestAPI, Golang**
-
+<hr>
 <h3 align="center">Мои контакты:</h3>
 <p align="center">
   <a href="tel:89634950312" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/phone.svg?raw=true" alt="IVZaytsev" height="40" width="40" /> </a> 
@@ -20,7 +19,7 @@
   <a href="https://t.me/TaoGunner" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/telegram.svg?raw=true" alt="TaoGunner" height="40" width="40" /> </a> 
   <a href="https://discord.gg/TaoGunner#4839" target="blank"><img align="center" src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/discord.svg?raw=true" alt="TaoGunner#4839" height="40" width="40" /> </a>
 </p>
-
+<hr>
 <h3 align="center">На этом я пишу и этим пользуюсь сейчас:</h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
