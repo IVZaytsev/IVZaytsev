@@ -10,7 +10,7 @@
   <img src="https://github.com/IVZaytsev/IVZaytsev/raw/main/icon/kaliningrad.svg?raw=true" alt="Kaliningrad" height="120" width="120" />
 </p>
 
-- 🌱 На текущий момент я изучаю **Django, RestAPI, Golang**
+- 🌱 На текущий момент я работаю с **RestAPI, Golang**
 <hr>
 <h3 align="center">Мои контакты:</h3>
 <p align="center">
